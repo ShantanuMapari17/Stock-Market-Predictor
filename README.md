@@ -22,3 +22,6 @@ We have used RNN + LSTM for training of time series price prediction model. We w
 
 ### Generalized Loss
 ![BS256_E50_New_SUM](https://user-images.githubusercontent.com/40542049/204107727-901f5a20-7ebc-49cd-b660-ec393bb5d687.png)
+
+### Prediction 
+![generalized_test_predictions_bs256_e50_1 3](https://user-images.githubusercontent.com/40542049/204107834-2d7dc164-99b0-410c-bf6a-5597e8013525.png)
